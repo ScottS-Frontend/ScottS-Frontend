@@ -4,7 +4,7 @@ Hi 👋 My name is Scott Slagle
 Frontend Web Developer
 ----------------------
 
-Bootcamp-trained frontend dev building responsive apps with React, TypeScript, and Next.js. Currently grinding through portfolio projects — a Netflix clone with Firebase backend, a precision Skinstric UI recreation with diamond components, and an audiobook platform with Stripe billing.
+I'm a frontend dev building responsive apps with React, TypeScript, and Next.js. Currently grinding through portfolio projects — a Netflix clone with Firebase backend, a precision Skinstric UI recreation with diamond components, and an audiobook platform with Stripe billing.
 
 Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma · Clerk
 
