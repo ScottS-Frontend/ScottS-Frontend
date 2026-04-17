@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋 My name is Scott Slagle
+=============================
 
-<!--
-**ScottS-Frontend/ScottS-Frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web Developer
+----------------------
 
-Here are some ideas to get you started:
+Bootcamp-trained frontend dev building responsive apps with React, TypeScript, and Next.js. Currently grinding through portfolio projects — a Netflix clone with Firebase backend, a precision Skinstric UI recreation with diamond components, and an audiobook platform with Stripe billing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma · Clerk
+
+I obsess over the details — hover effects, responsive breakpoints (1024/768/640), and making sure components actually work on mobile. I debug with console.log, stress about code reviews from my managers, and celebrate when Vercel deployments go through without errors.
+
+Based in Vacaville, CA. Into 80s trivia, classical music for coding sessions, and clean UI that feels good to use. Open to frontend roles and cool collaborations.
+
+* 🌍  I'm based in California
+* ✉️  You can contact me at [scottslaglebusiness@gmail.com](mailto:scottslaglebusiness@gmail.com)
+
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
+</p>
