@@ -8,7 +8,7 @@ I'm a frontend dev building responsive apps with HTML, JavaScript, CSS, React, T
 
 Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma · Clerk
 
-I obsess over the details — proper code, responsive breakpoints (1024/768/640), making sure components actually work on mobile, and ensuring the user has an excellent experience. I debug with console.log, look forward to code reviews from my managers, and celebrate when deployments go through without errors.
+I obsess over the details — proper code, responsive breakpoints, making sure components actually work on mobile, and ensuring the user has an excellent experience. I debug with console.log, look forward to code reviews from my managers, and celebrate when deployments go through without errors.
 
 Based in Vacaville, CA. Into the performing arts, 80s trivia, 80's music for coding sessions, and clean UI that feels good to use. Open to frontend roles and cool collaborations.
 
