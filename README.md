@@ -4,16 +4,17 @@ Hi 👋 My name is Scott Slagle
 Frontend Web Developer
 ----------------------
 
-I'm a frontend dev building responsive apps with HTML, JavaScript, CSS, React, TypeScript, and Next.js. Currently grinding through portfolio projects — a Netflix clone with Firebase backend, a precision Skinstric UI recreation with diamond components, and an audiobook platform with Stripe billing.
+I'm a frontend dev building responsive apps with HTML, JavaScript, CSS, React, TypeScript, and Next.js. Shipped projects include a Netflix clone with Firebase backend, a precision Skinstric UI recreation, and an audiobook platform with Stripe billing - all deployed on Vercel.
 
 Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma · Clerk
 
-I obsess over the details — proper code, responsive breakpoints, making sure components actually work on mobile, and ensuring the user has an excellent experience. I debug with console.log, look forward to code reviews from my managers, and celebrate when deployments go through without errors.
+I obsess over the details — proper code, responsive breakpoints, making sure components actually work on mobile, and ensuring the user has an excellent experience. I look forward to code reviews from my managers, and celebrate when deployments go through without errors.
 
 Based in Vacaville, CA. Into the performing arts, 80s trivia, 80's music for coding sessions, and clean UI that feels good to use. Open to frontend roles and cool collaborations.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [ScottSFrontend@gmail.com](mailto:ScottSFrontend@gmail.com)
+* Portfolio: https://scott-slagle-e-portfolio.vercel.app/
 
 | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
