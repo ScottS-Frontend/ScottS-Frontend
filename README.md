@@ -1,7 +1,7 @@
 Hi 👋 My name is Scott Slagle
 =============================
 
-Frontend Web Developer
+Frontend Developer
 ----------------------
 
 I'm a frontend dev building responsive apps with HTML, JavaScript, CSS, React, TypeScript, and Next.js. Shipped projects include a Netflix clone with Firebase backend, a precision Skinstric UI recreation, and an audiobook platform with Stripe billing - all deployed on Vercel.
