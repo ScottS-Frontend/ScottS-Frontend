@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm a frontend dev building responsive apps with HTML, JavaScript, CSS, React, TypeScript, and Next.js. Shipped projects include a Netflix clone with Firebase backend, a precision Skinstric UI recreation, and an audiobook platform with Stripe billing - all deployed on Vercel.
 
-Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma · Clerk
+Stack: React · TypeScript · Next.js · Firebase (Auth/Firestore) · Stripe · SCSS · Prisma
 
 I obsess over the details — proper code, responsive breakpoints, making sure components actually work on mobile, and ensuring the user has an excellent experience. I look forward to code reviews from my managers, and celebrate when deployments go through without errors.
 
