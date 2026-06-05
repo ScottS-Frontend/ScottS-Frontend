@@ -14,7 +14,7 @@ Based in Vacaville, CA. Into the performing arts, 80s trivia, 80's music for cod
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [ScottSFrontend@gmail.com](mailto:ScottSFrontend@gmail.com)
-* Portfolio: https://scott-slagle-e-portfolio.vercel.app/
+* Portfolio: https://scottslagle.dev
 
 | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
